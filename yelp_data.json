@@ -1,0 +1,830 @@
+[
+      {
+            "id": "LRQBWclZUF-tcFhV87_7fg",
+            "alias": "brekkie-cafe-calgary",
+            "name": "Brekkie Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-qdWn5ndPtC0Xfl80K1BAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brekkie-cafe-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 65,
+            "categories": [
+                  {
+                        "alias": "breakfast_brunch",
+                        "title": "Breakfast & Brunch"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.0607949,
+                  "longitude": -114.2103551
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "125-20 Westpark Link SW",
+                  "address2": null,
+                  "address3": null,
+                  "city": "Calgary",
+                  "zip_code": "T3H 0V5",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "125-20 Westpark Link SW",
+                        "Calgary, AB T3H 0V5",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14034529005",
+            "display_phone": "+1 403-452-9005",
+            "distance": 4530.433090281489
+      },
+      {
+            "id": "SYCgakqaEBTjRhOVFXjV3g",
+            "alias": "notable-the-restaurant-calgary",
+            "name": "NOtaBLE The Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yVOOyj9ozFtTE5qbXhqVpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/notable-the-restaurant-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 252,
+            "categories": [
+                  {
+                        "alias": "newcanadian",
+                        "title": "Canadian (New)"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.0718271728617,
+                  "longitude": -114.159737967571
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                  "address1": "4611 Bowness Road NW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3B 0B2",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "4611 Bowness Road NW",
+                        "Calgary, AB T3B 0B2",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14032884372",
+            "display_phone": "+1 403-288-4372",
+            "distance": 5441.604296702223
+      },
+      {
+            "id": "_YlcU-ET7dIiE0h6WpwE7Q",
+            "alias": "spot-on-kitchen-and-bar-calgary",
+            "name": "Spot On Kitchen & Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bKntq3VEsnrevRH3x_TJXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spot-on-kitchen-and-bar-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 38,
+            "categories": [
+                  {
+                        "alias": "comfortfood",
+                        "title": "Comfort Food"
+                  },
+                  {
+                        "alias": "wine_bars",
+                        "title": "Wine Bars"
+                  },
+                  {
+                        "alias": "pizza",
+                        "title": "Pizza"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.006175841741,
+                  "longitude": -114.129898421151
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "2 Richard Way SW",
+                  "address2": "Unit 2",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3E 7M9",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "2 Richard Way SW",
+                        "Unit 2",
+                        "Calgary, AB T3E 7M9",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14032403619",
+            "display_phone": "+1 403-240-3619",
+            "distance": 4002.0035034918515
+      },
+      {
+            "id": "llad5ng0sxHkWrK1ZlswxA",
+            "alias": "the-himalayan-calgary",
+            "name": "The Himalayan",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qM3J5nkrA0kJaUiBGH5SYw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-himalayan-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 248,
+            "categories": [
+                  {
+                        "alias": "himalayan",
+                        "title": "Himalayan/Nepalese"
+                  }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                  "latitude": 51.038087,
+                  "longitude": -114.133631
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "3218 17 Avenue SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3E 0B3",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "3218 17 Avenue SW",
+                        "Calgary, AB T3E 0B3",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14039843384",
+            "display_phone": "+1 403-984-3384",
+            "distance": 3528.85935656803
+      },
+      {
+            "id": "ZjJ1n-MmnZ9D2dFjKphoBQ",
+            "alias": "mercato-west-calgary",
+            "name": "Mercato West",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7G1AyJhIlzFc-5LIFYTFgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mercato-west-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 31,
+            "categories": [
+                  {
+                        "alias": "italian",
+                        "title": "Italian"
+                  }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                  "latitude": 51.060796213234,
+                  "longitude": -114.21252563918
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                  "address1": "873 85th Street SW",
+                  "address2": "Unit 5000",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 0J5",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "873 85th Street SW",
+                        "Unit 5000",
+                        "Calgary, AB T3H 0J5",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14032636996",
+            "display_phone": "+1 403-263-6996",
+            "distance": 4666.022845518904
+      },
+      {
+            "id": "saOLWsJa29PXZk_a-VUpyw",
+            "alias": "hodu-namu-korean-restaurant-calgary",
+            "name": "Hodu Namu Korean Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mZwohnt5OPLlwCDr5WBnzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hodu-namu-korean-restaurant-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 6,
+            "categories": [
+                  {
+                        "alias": "korean",
+                        "title": "Korean"
+                  }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                  "latitude": 51.013033,
+                  "longitude": -114.140311
+            },
+            "transactions": [],
+            "location": {
+                  "address1": "33B-4604 37 Street SW",
+                  "address2": null,
+                  "address3": null,
+                  "city": "Calgary",
+                  "zip_code": "T3E 3C9",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "33B-4604 37 Street SW",
+                        "Calgary, AB T3E 3C9",
+                        "Canada"
+                  ]
+            },
+            "phone": "+15873563565",
+            "display_phone": "+1 587-356-3565",
+            "distance": 3001.004920736665
+      },
+      {
+            "id": "i5Y5KynFw1r_JkwHSxluIg",
+            "alias": "signature-palace-restaurant-calgary",
+            "name": "Signature Palace Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/thWcxgDOfz1hVxuDEVk9Yg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/signature-palace-restaurant-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 10,
+            "categories": [
+                  {
+                        "alias": "chinese",
+                        "title": "Chinese"
+                  }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                  "latitude": 51.0364,
+                  "longitude": -114.166795
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "1919 Sirocco Drive SW",
+                  "address2": "Unit 206",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 2Y3",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "1919 Sirocco Drive SW",
+                        "Unit 206",
+                        "Calgary, AB T3H 2Y3",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14032468883",
+            "display_phone": "+1 403-246-8883",
+            "distance": 1587.2713188512344
+      },
+      {
+            "id": "oy9SMqeshfRrgTuJvc9s8g",
+            "alias": "pho-huong-viet-noodle-house-calgary",
+            "name": "Pho Huong Viet Noodle House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yemoBhh1fgeECUMQSqCOaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-huong-viet-noodle-house-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 83,
+            "categories": [
+                  {
+                        "alias": "vietnamese",
+                        "title": "Vietnamese"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.03733,
+                  "longitude": -114.14278
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                  "address1": "3855 17th Avenue SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3E 0C3",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "3855 17th Avenue SW",
+                        "Calgary, AB T3E 0C3",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14036863799",
+            "display_phone": "+1 403-686-3799",
+            "distance": 2920.020896627504
+      },
+      {
+            "id": "c0dMOGUySidcUgPRaN0nEA",
+            "alias": "fergus-and-bix-calgary",
+            "name": "Fergus & Bix",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7GPoOHfgOR1XFxhhSFytrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fergus-and-bix-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 42,
+            "categories": [
+                  {
+                        "alias": "newcanadian",
+                        "title": "Canadian (New)"
+                  },
+                  {
+                        "alias": "bars",
+                        "title": "Bars"
+                  },
+                  {
+                        "alias": "sandwiches",
+                        "title": "Sandwiches"
+                  }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                  "latitude": 51.0599204489161,
+                  "longitude": -114.211972421975
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "873  85th Street SW",
+                  "address2": "Suite 2000",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 4C8",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "873  85th Street SW",
+                        "Suite 2000",
+                        "Calgary, AB T3H 4C8",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14034573344",
+            "display_phone": "+1 403-457-3344",
+            "distance": 4562.376885572471
+      },
+      {
+            "id": "1rbEEySUdZAYeam-jtg48g",
+            "alias": "shimizu-kitchen-calgary",
+            "name": "Shimizu Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tBOChkLyT1H4cIyw5G_eLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shimizu-kitchen-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 15,
+            "categories": [
+                  {
+                        "alias": "ramen",
+                        "title": "Ramen"
+                  }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                  "latitude": 51.036998,
+                  "longitude": -114.1410651
+            },
+            "transactions": [],
+            "location": {
+                  "address1": "1918 37 Street SW",
+                  "address2": null,
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3E 3A3",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "1918 37 Street SW",
+                        "Calgary, AB T3E 3A3",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14034553380",
+            "display_phone": "+1 403-455-3380",
+            "distance": 3028.3179146204525
+      },
+      {
+            "id": "PKtDZGVTR7-FuzgPbs7Dww",
+            "alias": "spiros-pizza-and-greek-taverna-calgary",
+            "name": "Spiros Pizza & Greek Taverna",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S-zlZbOOXdgHICkSsh2Zfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spiros-pizza-and-greek-taverna-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 53,
+            "categories": [
+                  {
+                        "alias": "greek",
+                        "title": "Greek"
+                  },
+                  {
+                        "alias": "pizza",
+                        "title": "Pizza"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.03758,
+                  "longitude": -114.13531
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                  "address1": "1902 33 Street SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3E 2S5",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "1902 33 Street SW",
+                        "Calgary, AB T3E 2S5",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14036854444",
+            "display_phone": "+1 403-685-4444",
+            "distance": 3411.3259743797994
+      },
+      {
+            "id": "9WdA_roRy2IE45zdZ98baA",
+            "alias": "han-chao-taste-of-asia-calgary",
+            "name": "Han Chao, Taste of Asia",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/han-chao-taste-of-asia-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 4,
+            "categories": [
+                  {
+                        "alias": "vietnamese",
+                        "title": "Vietnamese"
+                  },
+                  {
+                        "alias": "thai",
+                        "title": "Thai"
+                  },
+                  {
+                        "alias": "chinese",
+                        "title": "Chinese"
+                  }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                  "latitude": 51.038795,
+                  "longitude": -114.207445
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "108-306 Aspen Glen Landing SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 0N5",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "108-306 Aspen Glen Landing SW",
+                        "Calgary, AB T3H 0N5",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14032628799",
+            "display_phone": "+1 403-262-8799",
+            "distance": 2539.7991516019024
+      },
+      {
+            "id": "KOZwtZQCDXykE-nF6AzT-g",
+            "alias": "famoso-neapolitan-pizzeria-calgary-5",
+            "name": "Famoso Neapolitan Pizzeria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RSYsjs4miKFwHe7g-aOFLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/famoso-neapolitan-pizzeria-calgary-5?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 30,
+            "categories": [
+                  {
+                        "alias": "pizza",
+                        "title": "Pizza"
+                  },
+                  {
+                        "alias": "italian",
+                        "title": "Italian"
+                  }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                  "latitude": 51.016869,
+                  "longitude": -114.168888
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "125 Stewart Green SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 2X5",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "125 Stewart Green SW",
+                        "Calgary, AB T3H 2X5",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14032422222",
+            "display_phone": "+1 403-242-2222",
+            "distance": 1108.409140599866
+      },
+      {
+            "id": "8pMQ853oXgTFmZGAAJ2IfQ",
+            "alias": "morning-brunch-co-calgary-2",
+            "name": "Morning Brunch Co.",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R0gXJiEtjzjCkxo_AIY3-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/morning-brunch-co-calgary-2?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 3,
+            "categories": [
+                  {
+                        "alias": "breakfast_brunch",
+                        "title": "Breakfast & Brunch"
+                  }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                  "latitude": 51.066713882651996,
+                  "longitude": -114.209490274205
+            },
+            "transactions": [],
+            "location": {
+                  "address1": "315 - 722 85th Street SW",
+                  "address2": "",
+                  "address3": null,
+                  "city": "Calgary",
+                  "zip_code": "T3H 1S6",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "315 - 722 85th Street SW",
+                        "Calgary, AB T3H 1S6",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14039842910",
+            "display_phone": "+1 403-984-2910",
+            "distance": 5155.575556563355
+      },
+      {
+            "id": "ghT3K4w_zGd6xUTIR_9G9g",
+            "alias": "san-dong-banjeom-calgary",
+            "name": "San Dong Banjeom",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xa250hTmE-Z04kqP28iS6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/san-dong-banjeom-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 22,
+            "categories": [
+                  {
+                        "alias": "korean",
+                        "title": "Korean"
+                  }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                  "latitude": 51.02991060476724,
+                  "longitude": -114.14185017301634
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "3803 26 Avenue SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3E 6V7",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "3803 26 Avenue SW",
+                        "Calgary, AB T3E 6V7",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14032178855",
+            "display_phone": "+1 403-217-8855",
+            "distance": 2681.3654032166924
+      },
+      {
+            "id": "bwYa79qvv5DQV6RJhnl8rQ",
+            "alias": "the-brokin-yolk-calgary-2",
+            "name": "The Bro'Kin Yolk",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eNmUU8Ik5xJFe-_chAzFLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-brokin-yolk-calgary-2?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 18,
+            "categories": [
+                  {
+                        "alias": "breakfast_brunch",
+                        "title": "Breakfast & Brunch"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.0182807,
+                  "longitude": -114.1711201
+            },
+            "transactions": [],
+            "location": {
+                  "address1": "5691 Signal Hill Centre SW",
+                  "address2": "",
+                  "address3": null,
+                  "city": "Calgary",
+                  "zip_code": "T3H 3P8",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "5691 Signal Hill Centre SW",
+                        "Calgary, AB T3H 3P8",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14036853316",
+            "display_phone": "+1 403-685-3316",
+            "distance": 930.7170452693465
+      },
+      {
+            "id": "TOCQt6eOtpIBa5iMubG14w",
+            "alias": "sauce-italian-market-calgary",
+            "name": "Sauce Italian  Market",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0mG7wAu8ZdmTgh6Vtr_iTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sauce-italian-market-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 49,
+            "categories": [
+                  {
+                        "alias": "italian",
+                        "title": "Italian"
+                  },
+                  {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                  }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                  "latitude": 51.0379736265717,
+                  "longitude": -114.135098755372
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "3326 17th Avenue SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3E 0B4",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "3326 17th Avenue SW",
+                        "Calgary, AB T3E 0B4",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14037277627",
+            "display_phone": "+1 403-727-7627",
+            "distance": 3430.9297025077535
+      },
+      {
+            "id": "7FAczuNhjGLk46wOuYSpyw",
+            "alias": "hot-n-fast-chinese-kitchen-calgary",
+            "name": "Hot 'n' Fast Chinese Kitchen",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v8dHZb_Ou8j4a8SG9M7-AA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hot-n-fast-chinese-kitchen-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 8,
+            "categories": [
+                  {
+                        "alias": "chinese",
+                        "title": "Chinese"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.01554,
+                  "longitude": -114.17548
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                  "address1": "7337 Sierra Morena Blvd SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 3V4",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "7337 Sierra Morena Blvd SW",
+                        "Calgary, AB T3H 3V4",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14036863833",
+            "display_phone": "+1 403-686-3833",
+            "distance": 1036.4783270649343
+      },
+      {
+            "id": "Etj3Qsw7mH8IpeZU1JJX1A",
+            "alias": "kabuku-calgary",
+            "name": "KABUKU",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/drYsYzzznKtRqvJDsaQ5Hg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kabuku-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 18,
+            "categories": [
+                  {
+                        "alias": "sushi",
+                        "title": "Sushi Bars"
+                  },
+                  {
+                        "alias": "japanese",
+                        "title": "Japanese"
+                  }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                  "latitude": 51.041397,
+                  "longitude": -114.212611
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "2136 10 Aspen Stone Boulevard SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 0K3",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "2136 10 Aspen Stone Boulevard SW",
+                        "Calgary, AB T3H 0K3",
+                        "Canada"
+                  ]
+            },
+            "phone": "+15879558884",
+            "display_phone": "+1 587-955-8884",
+            "distance": 3002.580271394062
+      },
+      {
+            "id": "aXtBu0ozeSNThvBv_HPgHA",
+            "alias": "722-world-bier-haus-calgary",
+            "name": "722 World Bier Haus",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YwQWOjA1dVQoJl-W0ecIYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/722-world-bier-haus-calgary?adjust_creative=wggjIlhA8g09yLJPLlucHA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wggjIlhA8g09yLJPLlucHA",
+            "review_count": 45,
+            "categories": [
+                  {
+                        "alias": "newcanadian",
+                        "title": "Canadian (New)"
+                  },
+                  {
+                        "alias": "bars",
+                        "title": "Bars"
+                  },
+                  {
+                        "alias": "pizza",
+                        "title": "Pizza"
+                  }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                  "latitude": 51.0662489110161,
+                  "longitude": -114.209672428726
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                  "address1": "722 85 Street SW",
+                  "address2": "",
+                  "address3": "",
+                  "city": "Calgary",
+                  "zip_code": "T3H 4C7",
+                  "country": "CA",
+                  "state": "AB",
+                  "display_address": [
+                        "722 85 Street SW",
+                        "Calgary, AB T3H 4C7",
+                        "Canada"
+                  ]
+            },
+            "phone": "+14034559950",
+            "display_phone": "+1 403-455-9950",
+            "distance": 5113.779842727784
+      }
+]
